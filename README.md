@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![WhatsApp Image 2024-12-06 at 09 08 21_203caea5](https://github.com/user-attachments/assets/aab54470-f8ad-41dd-b6c2-04a3a5e72856)
 
+
+### Name: BALAJI J
+### Register Number: 212224040042
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
